@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo20 -N"D:\PIC16F877A\MicroC\LED_train.mcppi" -SP"D:\MikroC\mikroC PRO for PIC\Defs\" -SP"D:\MikroC\mikroC PRO for PIC\Uses\P16\" -SP"D:\PIC16F877A\MicroC\" -IP"D:\MikroC\mikroC PRO for PIC\Uses\P16\" "LED_train.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	LED_train.c
+diagnostics: 14	123	Compiled Successfully	LED_train.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 3 (1%)  Free RAM (bytes): 349 (99%)	Used RAM (bytes): 3 (1%)  Free RAM (bytes): 349 (99%)
+hint: 0	1144	Used ROM (program words): 48 (1%)  Free ROM (program words): 8144 (99%)	Used ROM (program words): 48 (1%)  Free ROM (program words): 8144 (99%)
+diagnostics: 0	125	Project Linked Successfully	LED_train.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'LED_train.mcppi' completed: 218 ms	 
+diagnostics: 0	103	Finished successfully: 09 Dec 2025, 18:03:24	LED_train.mcppi
